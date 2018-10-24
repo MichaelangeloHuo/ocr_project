@@ -1,0 +1,7 @@
+\times 
+\div 
+\text
+\pm
+\square
+\rm
+\circ
